@@ -1,0 +1,27 @@
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+}
+
+p, li {
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+body {
+    background-color: wheat;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
