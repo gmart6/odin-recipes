@@ -10,9 +10,13 @@ h2 {
     text-align: center;
 }
 
-p, li {
+p, li, a {
     font-family: Helvetica, sans-serif;
     font-size: 1em;
+}
+
+p, nav {
+    margin-left: 1em;
 }
 
 body {
